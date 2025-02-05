@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 # 💫 About Me:
-I'm currently exploring topics related to cybersecurity and API development
+I'm currently working on projects related to cybersecurity and API development
 
 
 ## 🌐 Socials:
